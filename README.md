@@ -72,7 +72,7 @@ SaveVideo |	http://savevideo.me
 Scylla | 	https://github.com/josh0xA/Scylla
 Secateur	| https://secateur.app
 
-### [](#twitterquery)Twitter Query
+### [](#twitterquery)Twitter Query Dorks
 | Query for search | Description |
 | --- | --- |
 apple grapes site:twitter.com | Tweets containing the words "apple" and "grapes" on Twitter:
