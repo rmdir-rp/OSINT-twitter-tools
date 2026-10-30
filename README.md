@@ -59,7 +59,6 @@ Followers Analysis	| https://www.followersanalysis.com
 Followerwonk |	http://followerwonk.com
 Help Twitter Law Enforcement Request | https://help.twitter.com/forms/lawenforcement
 _IntelligenceX:Twitter |	https://intelx.io/tools?tab=twitter 
-iTrended	| https://itrended.com
 LessNoise	| https://www.lessnoise.net
 ManageFlitter	| http://manageflitter.com
 MentionMapp	| http://mentionmapp.com 
@@ -71,6 +70,7 @@ Same.energy	| https://same.energy
 SaveVideo |	http://savevideo.me
 Scylla | 	https://github.com/josh0xA/Scylla
 Secateur	| https://secateur.app
+twtData Twitter Trends	| https://twtdata.com/twitter-trends/
 
 ### [](#twitterquery)Twitter Query Dorks
 | Query for search | Description |
